@@ -1,0 +1,11 @@
+cd game_of_life_project
+make
+./game_of_life < patterns/stable.txt
+
+Then control your simulation with:
+
+A — speed up
+
+Z — slow down
+
+Space — exit
